@@ -1,4 +1,4 @@
-> # Draggable Content get Revealed after clicking on Toggle button to show content
+# Draggable Content get Revealed after clicking on Toggle button to show content
 
 > ## Basic HTML CSS JavaScript task
 
